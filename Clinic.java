@@ -8,7 +8,7 @@ import java.util.Random;
 import java.util.concurrent.Semaphore;
 import java.util.concurrent.atomic.AtomicInteger;
 
-public class Project2 {
+public class Clinic {
 	
 	private static AtomicInteger patientsDone = new AtomicInteger(0);
 	static int numOfDocs;
