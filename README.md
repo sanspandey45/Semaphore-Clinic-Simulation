@@ -18,5 +18,5 @@ Patient – one thread each, up to 15 patients
 The program receives number of doctors and patients as command-line inputs. (Number of nurses is the same as number of doctors.)
 
 ## How to build and run:
-Compile: javac Project2.java   <br>
-Run: java SemaphoreClinicSimulation 3 15
+Compile: javac Clinic.java   <br>
+Run: java clinic 3 15
